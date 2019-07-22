@@ -2,21 +2,21 @@
 
 The site map:
 
-[About](about.md)
-[Learning](learning/)
-Coding/
-Network/
-Web/
-Cloud/
-AI/
-
-[Notes and Summary](notes/)
-[Examples](examples)
-[Examples/sources](examples/sources)
-[Projects](projects/)
-[Blogs](blogs/)
-[Todo](todo/)
-
+```markdown
+- [About](about.md)
+- [Learning](learning/)
+- [Coding]
+- [Network]
+- [Web]
+- [Cloud]
+- [AI]
+- [Notes and Summary](notes/)
+- [Examples](examples)
+- [Examples/sources](examples/sources)
+- [Projects](projects/)
+- [Blogs](blogs/)
+- [Todo](todo/)
+```
 
 You can use the [editor on GitHub](https://github.com/shell2/shell2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
