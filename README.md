@@ -13,7 +13,7 @@ The site map:
 - [Examples](examples)
 - [Examples/sources](examples/sources)
 - [Projects](projects/)
-- [Blogs](blogs/)
+- [Blog](blog/Words.md)
 - [Todo](todo/)
 
 You can use the [editor on GitHub](https://github.com/shell2/shell2.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
